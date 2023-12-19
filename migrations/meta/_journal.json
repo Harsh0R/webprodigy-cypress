@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701973920114,
+      "tag": "0000_glorious_sumo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701974727489,
+      "tag": "0001_omniscient_miek",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1702913790345,
+      "tag": "0002_wonderful_mister_fear",
+      "breakpoints": true
+    }
+  ]
+}
